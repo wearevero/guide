@@ -1,1 +1,1 @@
-module.exports = 'default.liquid'
+module.exports = "default.liquid";

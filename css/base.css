@@ -1,12 +1,12 @@
 html {
-font-family: Inter;
+  font-family: Inter;
 }
 
 ul {
-padding-left: 1em;
+  padding-left: 1em;
 }
 
-input[type='checkbox'] {
+input[type="checkbox"] {
   display: inline-block;
   margin-right: 10px;
 }
