@@ -1,5 +1,6 @@
 html {
-  font-family: Inter;
+  font-family: -apple-system, BlinkMacSystemFont, "Helvetica Neue", Inter,
+    sans-serif;
 }
 
 ul {
@@ -7,6 +8,10 @@ ul {
 }
 
 input[type="checkbox"] {
-  display: inline-block;
+  display: inline-blocks;
   margin-right: 10px;
+}
+
+a {
+  text-decoration: none;
 }
