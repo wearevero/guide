@@ -1,6 +1,6 @@
 ---
 permalink: "index.html"
-title: "Resources by valinatic R&D"
+title: "Resources by Valinatic R&D"
 excerpt: "https://resources.valinatic.tech"
 ---
 
