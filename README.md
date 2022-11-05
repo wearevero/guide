@@ -1,7 +1,7 @@
 ---
 permalink: "index.html"
 title: "Resources by Valinatic R&D"
-excerpt: "https://resources.valinatic.tech"
+excerpt: "https://map.valinatic.tech"
 ---
 
 # Learning Resources
