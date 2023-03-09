@@ -1,7 +1,7 @@
 {
-  "name": "@valinatic/resources",
+  "name": "@wearevero/guide",
   "version": "0.1.0",
-  "description": "an random curated list that good-to-know. feel free to take a look!",
+  "description": "Veronqiue curated list that good-to-know. Feel free to take a look!",
   "main": "index.js",
   "scripts": {
     "start": "npm run build -- --pathprefix='/' && npx serve _site/",
