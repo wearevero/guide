@@ -1,6 +1,6 @@
 ---
 permalink: "index.html"
-title: "Guide by Veronique Research Dept"
+title: "Guide by Veronique Research Dept."
 excerpt: "https://guide.invero.pro"
 ---
 
@@ -10,6 +10,12 @@ Veronique curated list of basic knowledge that "good to know", let's take a look
 
 ## Fundamentals
 
+[-] [OSI Model](https://id.wikipedia.org/wiki/Model_OSI)
 [-] [How DNS Works](https://howdns.works/ep1/)
 [-] [Pro Git](https://git-scm.com/book/en/v2)
 [-] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+[-] [Everything curl](https://everything.curl.dev/)
+[-] [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+
+## Backend
+[-] []()
