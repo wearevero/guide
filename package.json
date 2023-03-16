@@ -1,7 +1,7 @@
 {
   "name": "@wearevero/guide",
-  "version": "0.1.0",
-  "description": "Veronqiue curated list that good-to-know. Feel free to take a look!",
+  "version": "0.1.69",
+  "description": "Veronqiue curated list that good-to-know by Veronqiue research Dept. member. but feel free to take a look and lets learn together!",
   "main": "index.js",
   "scripts": {
     "start": "npm run build -- --pathprefix='/' && npx serve _site/",
@@ -13,9 +13,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/valinatic/map.git"
+    "url": "git+https://github.com/wearevero/guide.git"
   },
-  "author": "@valinatic",
+  "author": "@wearevero",
   "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^1.0.2",
